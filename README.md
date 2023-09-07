@@ -20,9 +20,9 @@ python cli.py
 ```
 
 ## Features
-Habit tracking
-User-friendly interface
-Data visualization
+- Habit tracking
+- User-friendly interface
+- Data visualization
 
 ## Running the Tests
 This project has multiple test files catering to different functionalities. Here's how to run them:
