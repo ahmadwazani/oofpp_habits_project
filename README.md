@@ -27,9 +27,9 @@ python cli.py
 ## Running the Tests
 This project has multiple test files catering to different functionalities. Here's how to run them:
 
-For Analytics Module tests, run test_analytics_module.py.
-For Habit Class tests, run test_habit.py.
-For Storage Module tests, run test_storage_module.py.
+- For Analytics Module tests, run test_analytics_module.py.
+- For Habit Class tests, run test_habit.py.
+- For Storage Module tests, run test_storage_module.py.
 
 Run each test file using the Python interpreter with the following command:
 python <test_file_name>.py
