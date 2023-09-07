@@ -2,8 +2,6 @@
 
 # OOFPP Habit Tracking App
 
-# OOFPP Habit Tracking App
-
 ## Introduction
 This project aims to help users in creating and tracking their habits efficiently and consistently.
 
@@ -19,19 +17,22 @@ cd oofpp_habits_project
 # Finally, run the app using the following command:
 python cli.py
 
-Features
+```
+
+## Features
 Habit tracking
 User-friendly interface
 Data visualization
-Running the Tests
+
+## Running the Tests
 This project has multiple test files catering to different functionalities. Here's how to run them:
 
 For Analytics Module tests, run test_analytics_module.py.
 For Habit Class tests, run test_habit.py.
 For Storage Module tests, run test_storage_module.py.
 
-# Run each test file using the Python interpreter with the following command:
+Run each test file using the Python interpreter with the following command:
 python <test_file_name>.py
 
-Contributions and Feedback
+## Contributions and Feedback
 For contributions and feedback, please open an issue on GitHub or make a pull request.
